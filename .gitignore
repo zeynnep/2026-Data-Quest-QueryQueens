@@ -1,0 +1,8 @@
+data/raw/
+*.gz
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+ulke_yil_panel.csv
+wpp2024_ulke_temiz.csv
