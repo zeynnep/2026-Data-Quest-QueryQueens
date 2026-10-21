@@ -5,7 +5,7 @@ Cikti : ulke_yil_panel.csv, profil_gozlem_ozet.csv, buyume_ayristirma.csv
 import numpy as np, pandas as pd
 
 GIRDI = "wpp2024_ulke_temiz.csv"
-PROFIL = ["TFR", "LEx", "MedianAgePop", "IMR", "CBR", "CDR", "CNMR", "PopGrowthRate"]
+PROFIL = ["TFR", "LEx", "MedianAgePop", "CDR", "CNMR"]
 LAST_OBS = 2023  # 2024+ UN projeksiyonu (is_projection=1)
 
 df = pd.read_csv(GIRDI, encoding="utf-8-sig")
