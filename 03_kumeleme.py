@@ -38,8 +38,7 @@ for k in K_ARALIK:
                  "inertia": km.inertia_, "min_kume_boyutu": int(np.bincount(km.labels_).min())})
 ksec = pd.DataFrame(rows)
 print(ksec.round(3).to_string(index=False))
-gecerli = ksec[ksec.min_kume_boyutu >= MIN_BOYUT]
-K = int(gecerli.loc[gecerli.silhouette.idxmax(), "k"])
+K = 3  # silhouette k=2'yi onerir, k=3 yorumlanabilirlik icin secildi
 print("Secilen k:", K)
 
 final = KMeans(n_clusters=K, n_init=50, random_state=SEED).fit(Z)

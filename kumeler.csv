@@ -1,238 +1,238 @@
 ISO3_code,Location,Region,Subregion,small_territory,kume
-ABW,Aruba,Latin America and the Caribbean,Caribbean,1,0
-AFG,Afghanistan,Asia,Southern Asia,0,1
-AGO,Angola,Africa,Middle Africa,0,1
+ABW,Aruba,Latin America and the Caribbean,Caribbean,1,1
+AFG,Afghanistan,Asia,Southern Asia,0,2
+AGO,Angola,Africa,Middle Africa,0,2
 AIA,Anguilla,Latin America and the Caribbean,Caribbean,1,0
 ALB,Albania,Europe,Southern Europe,0,0
-AND,Andorra,Europe,Southern Europe,1,0
+AND,Andorra,Europe,Southern Europe,1,1
 ARE,United Arab Emirates,Asia,Western Asia,0,0
-ARG,Argentina,Latin America and the Caribbean,South America,0,0
-ARM,Armenia,Asia,Western Asia,0,0
+ARG,Argentina,Latin America and the Caribbean,South America,0,1
+ARM,Armenia,Asia,Western Asia,0,1
 ASM,American Samoa,Oceania,Polynesia,1,0
-ATG,Antigua and Barbuda,Latin America and the Caribbean,Caribbean,1,0
-AUS,Australia,Oceania,Australia/New Zealand,0,0
-AUT,Austria,Europe,Western Europe,0,0
+ATG,Antigua and Barbuda,Latin America and the Caribbean,Caribbean,1,1
+AUS,Australia,Oceania,Australia/New Zealand,0,1
+AUT,Austria,Europe,Western Europe,0,1
 AZE,Azerbaijan,Asia,Western Asia,0,0
-BDI,Burundi,Africa,Eastern Africa,0,1
-BEL,Belgium,Europe,Western Europe,0,0
-BEN,Benin,Africa,Western Africa,0,1
-BES,"Bonaire, Sint Eustatius and Saba",Latin America and the Caribbean,Caribbean,1,0
-BFA,Burkina Faso,Africa,Western Africa,0,1
-BGD,Bangladesh,Asia,Southern Asia,0,1
-BGR,Bulgaria,Europe,Eastern Europe,0,0
+BDI,Burundi,Africa,Eastern Africa,0,2
+BEL,Belgium,Europe,Western Europe,0,1
+BEN,Benin,Africa,Western Africa,0,2
+BES,"Bonaire, Sint Eustatius and Saba",Latin America and the Caribbean,Caribbean,1,1
+BFA,Burkina Faso,Africa,Western Africa,0,2
+BGD,Bangladesh,Asia,Southern Asia,0,2
+BGR,Bulgaria,Europe,Eastern Europe,0,1
 BHR,Bahrain,Asia,Western Asia,0,0
-BHS,Bahamas,Latin America and the Caribbean,Caribbean,1,0
-BIH,Bosnia and Herzegovina,Europe,Southern Europe,0,0
-BLM,Saint Barthélemy,Latin America and the Caribbean,Caribbean,1,0
-BLR,Belarus,Europe,Eastern Europe,0,0
-BLZ,Belize,Latin America and the Caribbean,Central America,1,1
-BMU,Bermuda,Northern America,Northern America,1,0
-BOL,Bolivia (Plurinational State of),Latin America and the Caribbean,South America,0,1
+BHS,Bahamas,Latin America and the Caribbean,Caribbean,1,1
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,0,1
+BLM,Saint Barthélemy,Latin America and the Caribbean,Caribbean,1,1
+BLR,Belarus,Europe,Eastern Europe,0,1
+BLZ,Belize,Latin America and the Caribbean,Central America,1,0
+BMU,Bermuda,Northern America,Northern America,1,1
+BOL,Bolivia (Plurinational State of),Latin America and the Caribbean,South America,0,2
 BRA,Brazil,Latin America and the Caribbean,South America,0,0
-BRB,Barbados,Latin America and the Caribbean,Caribbean,1,0
+BRB,Barbados,Latin America and the Caribbean,Caribbean,1,1
 BRN,Brunei Darussalam,Asia,South-Eastern Asia,1,0
-BTN,Bhutan,Asia,Southern Asia,1,1
-BWA,Botswana,Africa,Southern Africa,0,1
-CAF,Central African Republic,Africa,Middle Africa,0,1
-CAN,Canada,Northern America,Northern America,0,0
-CHE,Switzerland,Europe,Western Europe,0,0
-CHL,Chile,Latin America and the Caribbean,South America,0,0
+BTN,Bhutan,Asia,Southern Asia,1,2
+BWA,Botswana,Africa,Southern Africa,0,0
+CAF,Central African Republic,Africa,Middle Africa,0,2
+CAN,Canada,Northern America,Northern America,0,1
+CHE,Switzerland,Europe,Western Europe,0,1
+CHL,Chile,Latin America and the Caribbean,South America,0,1
 CHN,China,Asia,Eastern Asia,0,0
-CIV,Côte d'Ivoire,Africa,Western Africa,0,1
-CMR,Cameroon,Africa,Middle Africa,0,1
-COD,Democratic Republic of the Congo,Africa,Middle Africa,0,1
-COG,Congo,Africa,Middle Africa,0,1
+CIV,Côte d'Ivoire,Africa,Western Africa,0,2
+CMR,Cameroon,Africa,Middle Africa,0,2
+COD,Democratic Republic of the Congo,Africa,Middle Africa,0,2
+COG,Congo,Africa,Middle Africa,0,2
 COK,Cook Islands,Oceania,Polynesia,1,0
 COL,Colombia,Latin America and the Caribbean,South America,0,0
-COM,Comoros,Africa,Eastern Africa,1,1
-CPV,Cabo Verde,Africa,Western Africa,1,1
+COM,Comoros,Africa,Eastern Africa,1,2
+CPV,Cabo Verde,Africa,Western Africa,1,0
 CRI,Costa Rica,Latin America and the Caribbean,Central America,0,0
-CUB,Cuba,Latin America and the Caribbean,Caribbean,0,0
-CUW,Curaçao,Latin America and the Caribbean,Caribbean,1,0
-CYM,Cayman Islands,Latin America and the Caribbean,Caribbean,1,0
-CYP,Cyprus,Asia,Western Asia,0,0
-CZE,Czechia,Europe,Eastern Europe,0,0
-DEU,Germany,Europe,Western Europe,0,0
-DJI,Djibouti,Africa,Eastern Africa,0,1
+CUB,Cuba,Latin America and the Caribbean,Caribbean,0,1
+CUW,Curaçao,Latin America and the Caribbean,Caribbean,1,1
+CYM,Cayman Islands,Latin America and the Caribbean,Caribbean,1,1
+CYP,Cyprus,Asia,Western Asia,0,1
+CZE,Czechia,Europe,Eastern Europe,0,1
+DEU,Germany,Europe,Western Europe,0,1
+DJI,Djibouti,Africa,Eastern Africa,0,2
 DMA,Dominica,Latin America and the Caribbean,Caribbean,1,0
-DNK,Denmark,Europe,Northern Europe,0,0
-DOM,Dominican Republic,Latin America and the Caribbean,Caribbean,0,1
-DZA,Algeria,Africa,Northern Africa,0,1
-ECU,Ecuador,Latin America and the Caribbean,South America,0,1
-EGY,Egypt,Africa,Northern Africa,0,1
-ERI,Eritrea,Africa,Eastern Africa,0,1
-ESH,Western Sahara,Africa,Northern Africa,1,1
-ESP,Spain,Europe,Southern Europe,0,0
-EST,Estonia,Europe,Northern Europe,0,0
-ETH,Ethiopia,Africa,Eastern Africa,0,1
-FIN,Finland,Europe,Northern Europe,0,0
+DNK,Denmark,Europe,Northern Europe,0,1
+DOM,Dominican Republic,Latin America and the Caribbean,Caribbean,0,0
+DZA,Algeria,Africa,Northern Africa,0,0
+ECU,Ecuador,Latin America and the Caribbean,South America,0,0
+EGY,Egypt,Africa,Northern Africa,0,0
+ERI,Eritrea,Africa,Eastern Africa,0,2
+ESH,Western Sahara,Africa,Northern Africa,1,2
+ESP,Spain,Europe,Southern Europe,0,1
+EST,Estonia,Europe,Northern Europe,0,1
+ETH,Ethiopia,Africa,Eastern Africa,0,2
+FIN,Finland,Europe,Northern Europe,0,1
 FJI,Fiji,Oceania,Melanesia,1,0
-FLK,Falkland Islands (Malvinas),Latin America and the Caribbean,South America,1,0
-FRA,France,Europe,Western Europe,0,0
-FRO,Faroe Islands,Europe,Northern Europe,1,0
-FSM,Micronesia (Fed. States of),Oceania,Micronesia,1,1
-GAB,Gabon,Africa,Middle Africa,0,1
-GBR,United Kingdom,Europe,Northern Europe,0,0
-GEO,Georgia,Asia,Western Asia,0,0
-GGY,Guernsey,Europe,Northern Europe,1,0
-GHA,Ghana,Africa,Western Africa,0,1
-GIB,Gibraltar,Europe,Southern Europe,1,0
-GIN,Guinea,Africa,Western Africa,0,1
-GLP,Guadeloupe,Latin America and the Caribbean,Caribbean,1,0
-GMB,Gambia,Africa,Western Africa,0,1
-GNB,Guinea-Bissau,Africa,Western Africa,0,1
-GNQ,Equatorial Guinea,Africa,Middle Africa,0,1
-GRC,Greece,Europe,Southern Europe,0,0
+FLK,Falkland Islands (Malvinas),Latin America and the Caribbean,South America,1,1
+FRA,France,Europe,Western Europe,0,1
+FRO,Faroe Islands,Europe,Northern Europe,1,1
+FSM,Micronesia (Fed. States of),Oceania,Micronesia,1,0
+GAB,Gabon,Africa,Middle Africa,0,2
+GBR,United Kingdom,Europe,Northern Europe,0,1
+GEO,Georgia,Asia,Western Asia,0,1
+GGY,Guernsey,Europe,Northern Europe,1,1
+GHA,Ghana,Africa,Western Africa,0,2
+GIB,Gibraltar,Europe,Southern Europe,1,1
+GIN,Guinea,Africa,Western Africa,0,2
+GLP,Guadeloupe,Latin America and the Caribbean,Caribbean,1,1
+GMB,Gambia,Africa,Western Africa,0,2
+GNB,Guinea-Bissau,Africa,Western Africa,0,2
+GNQ,Equatorial Guinea,Africa,Middle Africa,0,2
+GRC,Greece,Europe,Southern Europe,0,1
 GRD,Grenada,Latin America and the Caribbean,Caribbean,1,0
 GRL,Greenland,Northern America,Northern America,1,0
-GTM,Guatemala,Latin America and the Caribbean,Central America,0,1
+GTM,Guatemala,Latin America and the Caribbean,Central America,0,0
 GUF,French Guiana,Latin America and the Caribbean,South America,1,0
 GUM,Guam,Oceania,Micronesia,1,0
 GUY,Guyana,Latin America and the Caribbean,South America,1,0
-HKG,"China, Hong Kong SAR",Asia,Eastern Asia,0,0
-HND,Honduras,Latin America and the Caribbean,Central America,0,1
-HRV,Croatia,Europe,Southern Europe,0,0
-HTI,Haiti,Latin America and the Caribbean,Caribbean,0,1
-HUN,Hungary,Europe,Eastern Europe,0,0
-IDN,Indonesia,Asia,South-Eastern Asia,0,1
-IMN,Isle of Man,Europe,Northern Europe,1,0
-IND,India,Asia,Southern Asia,0,1
-IRL,Ireland,Europe,Northern Europe,0,0
-IRN,Iran (Islamic Republic of),Asia,Southern Asia,0,1
-IRQ,Iraq,Asia,Western Asia,0,1
-ISL,Iceland,Europe,Northern Europe,1,0
-ISR,Israel,Asia,Western Asia,0,0
-ITA,Italy,Europe,Southern Europe,0,0
+HKG,"China, Hong Kong SAR",Asia,Eastern Asia,0,1
+HND,Honduras,Latin America and the Caribbean,Central America,0,0
+HRV,Croatia,Europe,Southern Europe,0,1
+HTI,Haiti,Latin America and the Caribbean,Caribbean,0,2
+HUN,Hungary,Europe,Eastern Europe,0,1
+IDN,Indonesia,Asia,South-Eastern Asia,0,0
+IMN,Isle of Man,Europe,Northern Europe,1,1
+IND,India,Asia,Southern Asia,0,0
+IRL,Ireland,Europe,Northern Europe,0,1
+IRN,Iran (Islamic Republic of),Asia,Southern Asia,0,0
+IRQ,Iraq,Asia,Western Asia,0,0
+ISL,Iceland,Europe,Northern Europe,1,1
+ISR,Israel,Asia,Western Asia,0,1
+ITA,Italy,Europe,Southern Europe,0,1
 JAM,Jamaica,Latin America and the Caribbean,Caribbean,0,0
-JEY,Jersey,Europe,Northern Europe,1,0
-JOR,Jordan,Asia,Western Asia,0,1
-JPN,Japan,Asia,Eastern Asia,0,0
+JEY,Jersey,Europe,Northern Europe,1,1
+JOR,Jordan,Asia,Western Asia,0,0
+JPN,Japan,Asia,Eastern Asia,0,1
 KAZ,Kazakhstan,Asia,Central Asia,0,0
-KEN,Kenya,Africa,Eastern Africa,0,1
-KGZ,Kyrgyzstan,Asia,Central Asia,0,1
-KHM,Cambodia,Asia,South-Eastern Asia,0,1
-KIR,Kiribati,Oceania,Micronesia,1,1
+KEN,Kenya,Africa,Eastern Africa,0,2
+KGZ,Kyrgyzstan,Asia,Central Asia,0,0
+KHM,Cambodia,Asia,South-Eastern Asia,0,2
+KIR,Kiribati,Oceania,Micronesia,1,0
 KNA,Saint Kitts and Nevis,Latin America and the Caribbean,Caribbean,1,0
 KOR,Republic of Korea,Asia,Eastern Asia,0,0
 KWT,Kuwait,Asia,Western Asia,0,0
-LAO,Lao People's Democratic Republic,Asia,South-Eastern Asia,0,1
+LAO,Lao People's Democratic Republic,Asia,South-Eastern Asia,0,2
 LBN,Lebanon,Asia,Western Asia,0,0
-LBR,Liberia,Africa,Western Africa,0,1
-LBY,Libya,Africa,Northern Africa,0,1
+LBR,Liberia,Africa,Western Africa,0,2
+LBY,Libya,Africa,Northern Africa,0,0
 LCA,Saint Lucia,Latin America and the Caribbean,Caribbean,1,0
-LIE,Liechtenstein,Europe,Western Europe,1,0
+LIE,Liechtenstein,Europe,Western Europe,1,1
 LKA,Sri Lanka,Asia,Southern Asia,0,0
-LSO,Lesotho,Africa,Southern Africa,0,1
-LTU,Lithuania,Europe,Northern Europe,0,0
-LUX,Luxembourg,Europe,Western Europe,1,0
-LVA,Latvia,Europe,Northern Europe,0,0
-MAC,"China, Macao SAR",Asia,Eastern Asia,1,0
+LSO,Lesotho,Africa,Southern Africa,0,2
+LTU,Lithuania,Europe,Northern Europe,0,1
+LUX,Luxembourg,Europe,Western Europe,1,1
+LVA,Latvia,Europe,Northern Europe,0,1
+MAC,"China, Macao SAR",Asia,Eastern Asia,1,1
 MAF,Saint Martin (French part),Latin America and the Caribbean,Caribbean,1,0
-MAR,Morocco,Africa,Northern Africa,0,1
-MCO,Monaco,Europe,Western Europe,1,0
-MDA,Republic of Moldova,Europe,Eastern Europe,0,0
-MDG,Madagascar,Africa,Eastern Africa,0,1
-MDV,Maldives,Asia,Southern Asia,1,1
-MEX,Mexico,Latin America and the Caribbean,Central America,0,1
-MHL,Marshall Islands,Oceania,Micronesia,1,1
-MKD,North Macedonia,Europe,Southern Europe,0,0
-MLI,Mali,Africa,Western Africa,0,1
-MLT,Malta,Europe,Southern Europe,1,0
-MMR,Myanmar,Asia,South-Eastern Asia,0,1
-MNE,Montenegro,Europe,Southern Europe,1,0
-MNG,Mongolia,Asia,Eastern Asia,0,1
+MAR,Morocco,Africa,Northern Africa,0,0
+MCO,Monaco,Europe,Western Europe,1,1
+MDA,Republic of Moldova,Europe,Eastern Europe,0,1
+MDG,Madagascar,Africa,Eastern Africa,0,2
+MDV,Maldives,Asia,Southern Asia,1,0
+MEX,Mexico,Latin America and the Caribbean,Central America,0,0
+MHL,Marshall Islands,Oceania,Micronesia,1,0
+MKD,North Macedonia,Europe,Southern Europe,0,1
+MLI,Mali,Africa,Western Africa,0,2
+MLT,Malta,Europe,Southern Europe,1,1
+MMR,Myanmar,Asia,South-Eastern Asia,0,0
+MNE,Montenegro,Europe,Southern Europe,1,1
+MNG,Mongolia,Asia,Eastern Asia,0,0
 MNP,Northern Mariana Islands,Oceania,Micronesia,1,0
-MOZ,Mozambique,Africa,Eastern Africa,0,1
-MRT,Mauritania,Africa,Western Africa,0,1
-MSR,Montserrat,Latin America and the Caribbean,Caribbean,1,0
-MTQ,Martinique,Latin America and the Caribbean,Caribbean,1,0
+MOZ,Mozambique,Africa,Eastern Africa,0,2
+MRT,Mauritania,Africa,Western Africa,0,2
+MSR,Montserrat,Latin America and the Caribbean,Caribbean,1,1
+MTQ,Martinique,Latin America and the Caribbean,Caribbean,1,1
 MUS,Mauritius,Africa,Eastern Africa,0,0
-MWI,Malawi,Africa,Eastern Africa,0,1
+MWI,Malawi,Africa,Eastern Africa,0,2
 MYS,Malaysia,Asia,South-Eastern Asia,0,0
-MYT,Mayotte,Africa,Eastern Africa,1,1
-NAM,Namibia,Africa,Southern Africa,0,1
+MYT,Mayotte,Africa,Eastern Africa,1,0
+NAM,Namibia,Africa,Southern Africa,0,2
 NCL,New Caledonia,Oceania,Melanesia,1,0
-NER,Niger,Africa,Western Africa,0,1
-NGA,Nigeria,Africa,Western Africa,0,1
-NIC,Nicaragua,Latin America and the Caribbean,Central America,0,1
+NER,Niger,Africa,Western Africa,0,2
+NGA,Nigeria,Africa,Western Africa,0,2
+NIC,Nicaragua,Latin America and the Caribbean,Central America,0,0
 NIU,Niue,Oceania,Polynesia,1,0
-NLD,Netherlands,Europe,Western Europe,0,0
-NOR,Norway,Europe,Northern Europe,0,0
-NPL,Nepal,Asia,Southern Asia,0,1
+NLD,Netherlands,Europe,Western Europe,0,1
+NOR,Norway,Europe,Northern Europe,0,1
+NPL,Nepal,Asia,Southern Asia,0,2
 NRU,Nauru,Oceania,Micronesia,1,0
-NZL,New Zealand,Oceania,Australia/New Zealand,0,0
-OMN,Oman,Asia,Western Asia,0,1
-PAK,Pakistan,Asia,Southern Asia,0,1
+NZL,New Zealand,Oceania,Australia/New Zealand,0,1
+OMN,Oman,Asia,Western Asia,0,0
+PAK,Pakistan,Asia,Southern Asia,0,2
 PAN,Panama,Latin America and the Caribbean,Central America,0,0
-PER,Peru,Latin America and the Caribbean,South America,0,1
-PHL,Philippines,Asia,South-Eastern Asia,0,1
+PER,Peru,Latin America and the Caribbean,South America,0,0
+PHL,Philippines,Asia,South-Eastern Asia,0,0
 PLW,Palau,Oceania,Micronesia,1,0
-PNG,Papua New Guinea,Oceania,Melanesia,0,1
-POL,Poland,Europe,Eastern Europe,0,0
-PRI,Puerto Rico,Latin America and the Caribbean,Caribbean,0,0
+PNG,Papua New Guinea,Oceania,Melanesia,0,0
+POL,Poland,Europe,Eastern Europe,0,1
+PRI,Puerto Rico,Latin America and the Caribbean,Caribbean,0,1
 PRK,Dem. People's Republic of Korea,Asia,Eastern Asia,0,0
-PRT,Portugal,Europe,Southern Europe,0,0
+PRT,Portugal,Europe,Southern Europe,0,1
 PRY,Paraguay,Latin America and the Caribbean,South America,0,0
-PSE,State of Palestine,Asia,Western Asia,0,1
+PSE,State of Palestine,Asia,Western Asia,0,0
 PYF,French Polynesia,Oceania,Polynesia,1,0
 QAT,Qatar,Asia,Western Asia,0,0
 REU,Réunion,Africa,Eastern Africa,1,0
-ROU,Romania,Europe,Eastern Europe,0,0
-RUS,Russian Federation,Europe,Eastern Europe,0,0
-RWA,Rwanda,Africa,Eastern Africa,0,1
-SAU,Saudi Arabia,Asia,Western Asia,0,1
-SDN,Sudan,Africa,Northern Africa,0,1
-SEN,Senegal,Africa,Western Africa,0,1
-SGP,Singapore,Asia,South-Eastern Asia,0,0
-SHN,Saint Helena,Africa,Western Africa,1,0
-SLB,Solomon Islands,Oceania,Melanesia,1,1
-SLE,Sierra Leone,Africa,Western Africa,0,1
-SLV,El Salvador,Latin America and the Caribbean,Central America,0,1
-SMR,San Marino,Europe,Southern Europe,1,0
-SOM,Somalia,Africa,Eastern Africa,0,1
-SPM,Saint Pierre and Miquelon,Northern America,Northern America,1,0
-SRB,Serbia,Europe,Southern Europe,0,0
-SSD,South Sudan,Africa,Eastern Africa,0,1
-STP,Sao Tome and Principe,Africa,Middle Africa,1,1
+ROU,Romania,Europe,Eastern Europe,0,1
+RUS,Russian Federation,Europe,Eastern Europe,0,1
+RWA,Rwanda,Africa,Eastern Africa,0,2
+SAU,Saudi Arabia,Asia,Western Asia,0,0
+SDN,Sudan,Africa,Northern Africa,0,2
+SEN,Senegal,Africa,Western Africa,0,2
+SGP,Singapore,Asia,South-Eastern Asia,0,1
+SHN,Saint Helena,Africa,Western Africa,1,1
+SLB,Solomon Islands,Oceania,Melanesia,1,0
+SLE,Sierra Leone,Africa,Western Africa,0,2
+SLV,El Salvador,Latin America and the Caribbean,Central America,0,0
+SMR,San Marino,Europe,Southern Europe,1,1
+SOM,Somalia,Africa,Eastern Africa,0,2
+SPM,Saint Pierre and Miquelon,Northern America,Northern America,1,1
+SRB,Serbia,Europe,Southern Europe,0,1
+SSD,South Sudan,Africa,Eastern Africa,0,2
+STP,Sao Tome and Principe,Africa,Middle Africa,1,2
 SUR,Suriname,Latin America and the Caribbean,South America,1,0
-SVK,Slovakia,Europe,Eastern Europe,0,0
-SVN,Slovenia,Europe,Southern Europe,0,0
-SWE,Sweden,Europe,Northern Europe,0,0
-SWZ,Eswatini,Africa,Southern Africa,0,1
-SXM,Sint Maarten (Dutch part),Latin America and the Caribbean,Caribbean,1,0
+SVK,Slovakia,Europe,Eastern Europe,0,1
+SVN,Slovenia,Europe,Southern Europe,0,1
+SWE,Sweden,Europe,Northern Europe,0,1
+SWZ,Eswatini,Africa,Southern Africa,0,2
+SXM,Sint Maarten (Dutch part),Latin America and the Caribbean,Caribbean,1,1
 SYC,Seychelles,Africa,Eastern Africa,1,0
-SYR,Syrian Arab Republic,Asia,Western Asia,0,1
+SYR,Syrian Arab Republic,Asia,Western Asia,0,0
 TCA,Turks and Caicos Islands,Latin America and the Caribbean,Caribbean,1,0
-TCD,Chad,Africa,Middle Africa,0,1
-TGO,Togo,Africa,Western Africa,0,1
+TCD,Chad,Africa,Middle Africa,0,2
+TGO,Togo,Africa,Western Africa,0,2
 THA,Thailand,Asia,South-Eastern Asia,0,0
-TJK,Tajikistan,Asia,Central Asia,0,1
+TJK,Tajikistan,Asia,Central Asia,0,0
 TKL,Tokelau,Oceania,Polynesia,1,0
-TKM,Turkmenistan,Asia,Central Asia,0,1
-TLS,Timor-Leste,Asia,South-Eastern Asia,0,1
-TON,Tonga,Oceania,Polynesia,1,1
+TKM,Turkmenistan,Asia,Central Asia,0,0
+TLS,Timor-Leste,Asia,South-Eastern Asia,0,2
+TON,Tonga,Oceania,Polynesia,1,0
 TTO,Trinidad and Tobago,Latin America and the Caribbean,Caribbean,0,0
-TUN,Tunisia,Africa,Northern Africa,0,1
-TUR,Türkiye,Asia,Western Asia,0,1
-TUV,Tuvalu,Oceania,Polynesia,1,1
-TWN,"China, Taiwan Province of China",Asia,Eastern Asia,0,0
-TZA,United Republic of Tanzania,Africa,Eastern Africa,0,1
-UGA,Uganda,Africa,Eastern Africa,0,1
-UKR,Ukraine,Europe,Eastern Europe,0,0
-URY,Uruguay,Latin America and the Caribbean,South America,0,0
-USA,United States of America,Northern America,Northern America,0,0
-UZB,Uzbekistan,Asia,Central Asia,0,1
-VAT,Holy See,Europe,Southern Europe,1,0
+TUN,Tunisia,Africa,Northern Africa,0,0
+TUR,Türkiye,Asia,Western Asia,0,0
+TUV,Tuvalu,Oceania,Polynesia,1,0
+TWN,"China, Taiwan Province of China",Asia,Eastern Asia,0,1
+TZA,United Republic of Tanzania,Africa,Eastern Africa,0,2
+UGA,Uganda,Africa,Eastern Africa,0,2
+UKR,Ukraine,Europe,Eastern Europe,0,1
+URY,Uruguay,Latin America and the Caribbean,South America,0,1
+USA,United States of America,Northern America,Northern America,0,1
+UZB,Uzbekistan,Asia,Central Asia,0,0
+VAT,Holy See,Europe,Southern Europe,1,1
 VCT,Saint Vincent and the Grenadines,Latin America and the Caribbean,Caribbean,1,0
 VEN,Venezuela (Bolivarian Republic of),Latin America and the Caribbean,South America,0,0
-VGB,British Virgin Islands,Latin America and the Caribbean,Caribbean,1,0
-VIR,United States Virgin Islands,Latin America and the Caribbean,Caribbean,1,0
+VGB,British Virgin Islands,Latin America and the Caribbean,Caribbean,1,1
+VIR,United States Virgin Islands,Latin America and the Caribbean,Caribbean,1,1
 VNM,Viet Nam,Asia,South-Eastern Asia,0,0
-VUT,Vanuatu,Oceania,Melanesia,1,1
+VUT,Vanuatu,Oceania,Melanesia,1,0
 WLF,Wallis and Futuna Islands,Oceania,Polynesia,1,0
-WSM,Samoa,Oceania,Polynesia,1,1
-XKX,Kosovo (under UNSC res. 1244),Europe,Southern Europe,0,1
-YEM,Yemen,Asia,Western Asia,0,1
-ZAF,South Africa,Africa,Southern Africa,0,1
-ZMB,Zambia,Africa,Eastern Africa,0,1
-ZWE,Zimbabwe,Africa,Eastern Africa,0,1
+WSM,Samoa,Oceania,Polynesia,1,0
+XKX,Kosovo (under UNSC res. 1244),Europe,Southern Europe,0,0
+YEM,Yemen,Asia,Western Asia,0,2
+ZAF,South Africa,Africa,Southern Africa,0,0
+ZMB,Zambia,Africa,Eastern Africa,0,2
+ZWE,Zimbabwe,Africa,Eastern Africa,0,2
