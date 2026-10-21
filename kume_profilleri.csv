@@ -1,0 +1,46 @@
+kume,kume_adi,n_ulke,gosterge,yil,ortalama_z
+0,Orta donem gecisi,97,TFR,1950,1.1
+0,Orta donem gecisi,97,TFR,1990,-0.07
+0,Orta donem gecisi,97,TFR,2020,-0.86
+0,Orta donem gecisi,97,LEx,1950,-1.37
+0,Orta donem gecisi,97,LEx,1990,0.31
+0,Orta donem gecisi,97,LEx,2020,0.8
+0,Orta donem gecisi,97,MedianAgePop,1950,-0.62
+0,Orta donem gecisi,97,MedianAgePop,1990,-0.45
+0,Orta donem gecisi,97,MedianAgePop,2020,0.63
+0,Orta donem gecisi,97,CDR,1950,1.47
+0,Orta donem gecisi,97,CDR,1990,-0.72
+0,Orta donem gecisi,97,CDR,2020,-0.72
+0,Orta donem gecisi,97,CNMR,1950,-0.01
+0,Orta donem gecisi,97,CNMR,1990,-0.45
+0,Orta donem gecisi,97,CNMR,2020,-0.17
+1,Erken gecis,84,TFR,1950,-0.24
+1,Erken gecis,84,TFR,1990,-1.04
+1,Erken gecis,84,TFR,2020,-1.24
+1,Erken gecis,84,LEx,1950,-0.13
+1,Erken gecis,84,LEx,1990,0.86
+1,Erken gecis,84,LEx,2020,1.29
+1,Erken gecis,84,MedianAgePop,1950,0.26
+1,Erken gecis,84,MedianAgePop,1990,0.97
+1,Erken gecis,84,MedianAgePop,2020,2.15
+1,Erken gecis,84,CDR,1950,0.16
+1,Erken gecis,84,CDR,1990,-0.39
+1,Erken gecis,84,CDR,2020,-0.13
+1,Erken gecis,84,CNMR,1950,0.09
+1,Erken gecis,84,CNMR,1990,0.18
+1,Erken gecis,84,CNMR,2020,0.18
+2,Gec gecis,56,TFR,1950,1.19
+2,Gec gecis,56,TFR,1990,1.11
+2,Gec gecis,56,TFR,2020,0.04
+2,Gec gecis,56,LEx,1950,-2.13
+2,Gec gecis,56,LEx,1990,-0.97
+2,Gec gecis,56,LEx,2020,-0.01
+2,Gec gecis,56,MedianAgePop,1950,-0.66
+2,Gec gecis,56,MedianAgePop,1990,-0.94
+2,Gec gecis,56,MedianAgePop,2020,-0.59
+2,Gec gecis,56,CDR,1950,2.45
+2,Gec gecis,56,CDR,1990,0.64
+2,Gec gecis,56,CDR,2020,-0.54
+2,Gec gecis,56,CNMR,1950,0.08
+2,Gec gecis,56,CNMR,1990,-0.24
+2,Gec gecis,56,CNMR,2020,0.03

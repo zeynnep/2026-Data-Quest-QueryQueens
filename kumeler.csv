@@ -1,238 +1,238 @@
-ISO3_code,Location,Region,Subregion,small_territory,kume
-ABW,Aruba,Latin America and the Caribbean,Caribbean,1,1
-AFG,Afghanistan,Asia,Southern Asia,0,2
-AGO,Angola,Africa,Middle Africa,0,2
-AIA,Anguilla,Latin America and the Caribbean,Caribbean,1,0
-ALB,Albania,Europe,Southern Europe,0,0
-AND,Andorra,Europe,Southern Europe,1,1
-ARE,United Arab Emirates,Asia,Western Asia,0,0
-ARG,Argentina,Latin America and the Caribbean,South America,0,1
-ARM,Armenia,Asia,Western Asia,0,1
-ASM,American Samoa,Oceania,Polynesia,1,0
-ATG,Antigua and Barbuda,Latin America and the Caribbean,Caribbean,1,1
-AUS,Australia,Oceania,Australia/New Zealand,0,1
-AUT,Austria,Europe,Western Europe,0,1
-AZE,Azerbaijan,Asia,Western Asia,0,0
-BDI,Burundi,Africa,Eastern Africa,0,2
-BEL,Belgium,Europe,Western Europe,0,1
-BEN,Benin,Africa,Western Africa,0,2
-BES,"Bonaire, Sint Eustatius and Saba",Latin America and the Caribbean,Caribbean,1,1
-BFA,Burkina Faso,Africa,Western Africa,0,2
-BGD,Bangladesh,Asia,Southern Asia,0,2
-BGR,Bulgaria,Europe,Eastern Europe,0,1
-BHR,Bahrain,Asia,Western Asia,0,0
-BHS,Bahamas,Latin America and the Caribbean,Caribbean,1,1
-BIH,Bosnia and Herzegovina,Europe,Southern Europe,0,1
-BLM,Saint Barthélemy,Latin America and the Caribbean,Caribbean,1,1
-BLR,Belarus,Europe,Eastern Europe,0,1
-BLZ,Belize,Latin America and the Caribbean,Central America,1,0
-BMU,Bermuda,Northern America,Northern America,1,1
-BOL,Bolivia (Plurinational State of),Latin America and the Caribbean,South America,0,2
-BRA,Brazil,Latin America and the Caribbean,South America,0,0
-BRB,Barbados,Latin America and the Caribbean,Caribbean,1,1
-BRN,Brunei Darussalam,Asia,South-Eastern Asia,1,0
-BTN,Bhutan,Asia,Southern Asia,1,2
-BWA,Botswana,Africa,Southern Africa,0,0
-CAF,Central African Republic,Africa,Middle Africa,0,2
-CAN,Canada,Northern America,Northern America,0,1
-CHE,Switzerland,Europe,Western Europe,0,1
-CHL,Chile,Latin America and the Caribbean,South America,0,1
-CHN,China,Asia,Eastern Asia,0,0
-CIV,Côte d'Ivoire,Africa,Western Africa,0,2
-CMR,Cameroon,Africa,Middle Africa,0,2
-COD,Democratic Republic of the Congo,Africa,Middle Africa,0,2
-COG,Congo,Africa,Middle Africa,0,2
-COK,Cook Islands,Oceania,Polynesia,1,0
-COL,Colombia,Latin America and the Caribbean,South America,0,0
-COM,Comoros,Africa,Eastern Africa,1,2
-CPV,Cabo Verde,Africa,Western Africa,1,0
-CRI,Costa Rica,Latin America and the Caribbean,Central America,0,0
-CUB,Cuba,Latin America and the Caribbean,Caribbean,0,1
-CUW,Curaçao,Latin America and the Caribbean,Caribbean,1,1
-CYM,Cayman Islands,Latin America and the Caribbean,Caribbean,1,1
-CYP,Cyprus,Asia,Western Asia,0,1
-CZE,Czechia,Europe,Eastern Europe,0,1
-DEU,Germany,Europe,Western Europe,0,1
-DJI,Djibouti,Africa,Eastern Africa,0,2
-DMA,Dominica,Latin America and the Caribbean,Caribbean,1,0
-DNK,Denmark,Europe,Northern Europe,0,1
-DOM,Dominican Republic,Latin America and the Caribbean,Caribbean,0,0
-DZA,Algeria,Africa,Northern Africa,0,0
-ECU,Ecuador,Latin America and the Caribbean,South America,0,0
-EGY,Egypt,Africa,Northern Africa,0,0
-ERI,Eritrea,Africa,Eastern Africa,0,2
-ESH,Western Sahara,Africa,Northern Africa,1,2
-ESP,Spain,Europe,Southern Europe,0,1
-EST,Estonia,Europe,Northern Europe,0,1
-ETH,Ethiopia,Africa,Eastern Africa,0,2
-FIN,Finland,Europe,Northern Europe,0,1
-FJI,Fiji,Oceania,Melanesia,1,0
-FLK,Falkland Islands (Malvinas),Latin America and the Caribbean,South America,1,1
-FRA,France,Europe,Western Europe,0,1
-FRO,Faroe Islands,Europe,Northern Europe,1,1
-FSM,Micronesia (Fed. States of),Oceania,Micronesia,1,0
-GAB,Gabon,Africa,Middle Africa,0,2
-GBR,United Kingdom,Europe,Northern Europe,0,1
-GEO,Georgia,Asia,Western Asia,0,1
-GGY,Guernsey,Europe,Northern Europe,1,1
-GHA,Ghana,Africa,Western Africa,0,2
-GIB,Gibraltar,Europe,Southern Europe,1,1
-GIN,Guinea,Africa,Western Africa,0,2
-GLP,Guadeloupe,Latin America and the Caribbean,Caribbean,1,1
-GMB,Gambia,Africa,Western Africa,0,2
-GNB,Guinea-Bissau,Africa,Western Africa,0,2
-GNQ,Equatorial Guinea,Africa,Middle Africa,0,2
-GRC,Greece,Europe,Southern Europe,0,1
-GRD,Grenada,Latin America and the Caribbean,Caribbean,1,0
-GRL,Greenland,Northern America,Northern America,1,0
-GTM,Guatemala,Latin America and the Caribbean,Central America,0,0
-GUF,French Guiana,Latin America and the Caribbean,South America,1,0
-GUM,Guam,Oceania,Micronesia,1,0
-GUY,Guyana,Latin America and the Caribbean,South America,1,0
-HKG,"China, Hong Kong SAR",Asia,Eastern Asia,0,1
-HND,Honduras,Latin America and the Caribbean,Central America,0,0
-HRV,Croatia,Europe,Southern Europe,0,1
-HTI,Haiti,Latin America and the Caribbean,Caribbean,0,2
-HUN,Hungary,Europe,Eastern Europe,0,1
-IDN,Indonesia,Asia,South-Eastern Asia,0,0
-IMN,Isle of Man,Europe,Northern Europe,1,1
-IND,India,Asia,Southern Asia,0,0
-IRL,Ireland,Europe,Northern Europe,0,1
-IRN,Iran (Islamic Republic of),Asia,Southern Asia,0,0
-IRQ,Iraq,Asia,Western Asia,0,0
-ISL,Iceland,Europe,Northern Europe,1,1
-ISR,Israel,Asia,Western Asia,0,1
-ITA,Italy,Europe,Southern Europe,0,1
-JAM,Jamaica,Latin America and the Caribbean,Caribbean,0,0
-JEY,Jersey,Europe,Northern Europe,1,1
-JOR,Jordan,Asia,Western Asia,0,0
-JPN,Japan,Asia,Eastern Asia,0,1
-KAZ,Kazakhstan,Asia,Central Asia,0,0
-KEN,Kenya,Africa,Eastern Africa,0,2
-KGZ,Kyrgyzstan,Asia,Central Asia,0,0
-KHM,Cambodia,Asia,South-Eastern Asia,0,2
-KIR,Kiribati,Oceania,Micronesia,1,0
-KNA,Saint Kitts and Nevis,Latin America and the Caribbean,Caribbean,1,0
-KOR,Republic of Korea,Asia,Eastern Asia,0,0
-KWT,Kuwait,Asia,Western Asia,0,0
-LAO,Lao People's Democratic Republic,Asia,South-Eastern Asia,0,2
-LBN,Lebanon,Asia,Western Asia,0,0
-LBR,Liberia,Africa,Western Africa,0,2
-LBY,Libya,Africa,Northern Africa,0,0
-LCA,Saint Lucia,Latin America and the Caribbean,Caribbean,1,0
-LIE,Liechtenstein,Europe,Western Europe,1,1
-LKA,Sri Lanka,Asia,Southern Asia,0,0
-LSO,Lesotho,Africa,Southern Africa,0,2
-LTU,Lithuania,Europe,Northern Europe,0,1
-LUX,Luxembourg,Europe,Western Europe,1,1
-LVA,Latvia,Europe,Northern Europe,0,1
-MAC,"China, Macao SAR",Asia,Eastern Asia,1,1
-MAF,Saint Martin (French part),Latin America and the Caribbean,Caribbean,1,0
-MAR,Morocco,Africa,Northern Africa,0,0
-MCO,Monaco,Europe,Western Europe,1,1
-MDA,Republic of Moldova,Europe,Eastern Europe,0,1
-MDG,Madagascar,Africa,Eastern Africa,0,2
-MDV,Maldives,Asia,Southern Asia,1,0
-MEX,Mexico,Latin America and the Caribbean,Central America,0,0
-MHL,Marshall Islands,Oceania,Micronesia,1,0
-MKD,North Macedonia,Europe,Southern Europe,0,1
-MLI,Mali,Africa,Western Africa,0,2
-MLT,Malta,Europe,Southern Europe,1,1
-MMR,Myanmar,Asia,South-Eastern Asia,0,0
-MNE,Montenegro,Europe,Southern Europe,1,1
-MNG,Mongolia,Asia,Eastern Asia,0,0
-MNP,Northern Mariana Islands,Oceania,Micronesia,1,0
-MOZ,Mozambique,Africa,Eastern Africa,0,2
-MRT,Mauritania,Africa,Western Africa,0,2
-MSR,Montserrat,Latin America and the Caribbean,Caribbean,1,1
-MTQ,Martinique,Latin America and the Caribbean,Caribbean,1,1
-MUS,Mauritius,Africa,Eastern Africa,0,0
-MWI,Malawi,Africa,Eastern Africa,0,2
-MYS,Malaysia,Asia,South-Eastern Asia,0,0
-MYT,Mayotte,Africa,Eastern Africa,1,0
-NAM,Namibia,Africa,Southern Africa,0,2
-NCL,New Caledonia,Oceania,Melanesia,1,0
-NER,Niger,Africa,Western Africa,0,2
-NGA,Nigeria,Africa,Western Africa,0,2
-NIC,Nicaragua,Latin America and the Caribbean,Central America,0,0
-NIU,Niue,Oceania,Polynesia,1,0
-NLD,Netherlands,Europe,Western Europe,0,1
-NOR,Norway,Europe,Northern Europe,0,1
-NPL,Nepal,Asia,Southern Asia,0,2
-NRU,Nauru,Oceania,Micronesia,1,0
-NZL,New Zealand,Oceania,Australia/New Zealand,0,1
-OMN,Oman,Asia,Western Asia,0,0
-PAK,Pakistan,Asia,Southern Asia,0,2
-PAN,Panama,Latin America and the Caribbean,Central America,0,0
-PER,Peru,Latin America and the Caribbean,South America,0,0
-PHL,Philippines,Asia,South-Eastern Asia,0,0
-PLW,Palau,Oceania,Micronesia,1,0
-PNG,Papua New Guinea,Oceania,Melanesia,0,0
-POL,Poland,Europe,Eastern Europe,0,1
-PRI,Puerto Rico,Latin America and the Caribbean,Caribbean,0,1
-PRK,Dem. People's Republic of Korea,Asia,Eastern Asia,0,0
-PRT,Portugal,Europe,Southern Europe,0,1
-PRY,Paraguay,Latin America and the Caribbean,South America,0,0
-PSE,State of Palestine,Asia,Western Asia,0,0
-PYF,French Polynesia,Oceania,Polynesia,1,0
-QAT,Qatar,Asia,Western Asia,0,0
-REU,Réunion,Africa,Eastern Africa,1,0
-ROU,Romania,Europe,Eastern Europe,0,1
-RUS,Russian Federation,Europe,Eastern Europe,0,1
-RWA,Rwanda,Africa,Eastern Africa,0,2
-SAU,Saudi Arabia,Asia,Western Asia,0,0
-SDN,Sudan,Africa,Northern Africa,0,2
-SEN,Senegal,Africa,Western Africa,0,2
-SGP,Singapore,Asia,South-Eastern Asia,0,1
-SHN,Saint Helena,Africa,Western Africa,1,1
-SLB,Solomon Islands,Oceania,Melanesia,1,0
-SLE,Sierra Leone,Africa,Western Africa,0,2
-SLV,El Salvador,Latin America and the Caribbean,Central America,0,0
-SMR,San Marino,Europe,Southern Europe,1,1
-SOM,Somalia,Africa,Eastern Africa,0,2
-SPM,Saint Pierre and Miquelon,Northern America,Northern America,1,1
-SRB,Serbia,Europe,Southern Europe,0,1
-SSD,South Sudan,Africa,Eastern Africa,0,2
-STP,Sao Tome and Principe,Africa,Middle Africa,1,2
-SUR,Suriname,Latin America and the Caribbean,South America,1,0
-SVK,Slovakia,Europe,Eastern Europe,0,1
-SVN,Slovenia,Europe,Southern Europe,0,1
-SWE,Sweden,Europe,Northern Europe,0,1
-SWZ,Eswatini,Africa,Southern Africa,0,2
-SXM,Sint Maarten (Dutch part),Latin America and the Caribbean,Caribbean,1,1
-SYC,Seychelles,Africa,Eastern Africa,1,0
-SYR,Syrian Arab Republic,Asia,Western Asia,0,0
-TCA,Turks and Caicos Islands,Latin America and the Caribbean,Caribbean,1,0
-TCD,Chad,Africa,Middle Africa,0,2
-TGO,Togo,Africa,Western Africa,0,2
-THA,Thailand,Asia,South-Eastern Asia,0,0
-TJK,Tajikistan,Asia,Central Asia,0,0
-TKL,Tokelau,Oceania,Polynesia,1,0
-TKM,Turkmenistan,Asia,Central Asia,0,0
-TLS,Timor-Leste,Asia,South-Eastern Asia,0,2
-TON,Tonga,Oceania,Polynesia,1,0
-TTO,Trinidad and Tobago,Latin America and the Caribbean,Caribbean,0,0
-TUN,Tunisia,Africa,Northern Africa,0,0
-TUR,Türkiye,Asia,Western Asia,0,0
-TUV,Tuvalu,Oceania,Polynesia,1,0
-TWN,"China, Taiwan Province of China",Asia,Eastern Asia,0,1
-TZA,United Republic of Tanzania,Africa,Eastern Africa,0,2
-UGA,Uganda,Africa,Eastern Africa,0,2
-UKR,Ukraine,Europe,Eastern Europe,0,1
-URY,Uruguay,Latin America and the Caribbean,South America,0,1
-USA,United States of America,Northern America,Northern America,0,1
-UZB,Uzbekistan,Asia,Central Asia,0,0
-VAT,Holy See,Europe,Southern Europe,1,1
-VCT,Saint Vincent and the Grenadines,Latin America and the Caribbean,Caribbean,1,0
-VEN,Venezuela (Bolivarian Republic of),Latin America and the Caribbean,South America,0,0
-VGB,British Virgin Islands,Latin America and the Caribbean,Caribbean,1,1
-VIR,United States Virgin Islands,Latin America and the Caribbean,Caribbean,1,1
-VNM,Viet Nam,Asia,South-Eastern Asia,0,0
-VUT,Vanuatu,Oceania,Melanesia,1,0
-WLF,Wallis and Futuna Islands,Oceania,Polynesia,1,0
-WSM,Samoa,Oceania,Polynesia,1,0
-XKX,Kosovo (under UNSC res. 1244),Europe,Southern Europe,0,0
-YEM,Yemen,Asia,Western Asia,0,2
-ZAF,South Africa,Africa,Southern Africa,0,0
-ZMB,Zambia,Africa,Eastern Africa,0,2
-ZWE,Zimbabwe,Africa,Eastern Africa,0,2
+ISO3_code,Location,Region,Subregion,small_territory,kume,kume_adi
+ABW,Aruba,Latin America and the Caribbean,Caribbean,1,1,Erken gecis
+AFG,Afghanistan,Asia,Southern Asia,0,2,Gec gecis
+AGO,Angola,Africa,Middle Africa,0,2,Gec gecis
+AIA,Anguilla,Latin America and the Caribbean,Caribbean,1,0,Orta donem gecisi
+ALB,Albania,Europe,Southern Europe,0,0,Orta donem gecisi
+AND,Andorra,Europe,Southern Europe,1,1,Erken gecis
+ARE,United Arab Emirates,Asia,Western Asia,0,0,Orta donem gecisi
+ARG,Argentina,Latin America and the Caribbean,South America,0,1,Erken gecis
+ARM,Armenia,Asia,Western Asia,0,1,Erken gecis
+ASM,American Samoa,Oceania,Polynesia,1,0,Orta donem gecisi
+ATG,Antigua and Barbuda,Latin America and the Caribbean,Caribbean,1,1,Erken gecis
+AUS,Australia,Oceania,Australia/New Zealand,0,1,Erken gecis
+AUT,Austria,Europe,Western Europe,0,1,Erken gecis
+AZE,Azerbaijan,Asia,Western Asia,0,0,Orta donem gecisi
+BDI,Burundi,Africa,Eastern Africa,0,2,Gec gecis
+BEL,Belgium,Europe,Western Europe,0,1,Erken gecis
+BEN,Benin,Africa,Western Africa,0,2,Gec gecis
+BES,"Bonaire, Sint Eustatius and Saba",Latin America and the Caribbean,Caribbean,1,1,Erken gecis
+BFA,Burkina Faso,Africa,Western Africa,0,2,Gec gecis
+BGD,Bangladesh,Asia,Southern Asia,0,2,Gec gecis
+BGR,Bulgaria,Europe,Eastern Europe,0,1,Erken gecis
+BHR,Bahrain,Asia,Western Asia,0,0,Orta donem gecisi
+BHS,Bahamas,Latin America and the Caribbean,Caribbean,1,1,Erken gecis
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,0,1,Erken gecis
+BLM,Saint Barthélemy,Latin America and the Caribbean,Caribbean,1,1,Erken gecis
+BLR,Belarus,Europe,Eastern Europe,0,1,Erken gecis
+BLZ,Belize,Latin America and the Caribbean,Central America,1,0,Orta donem gecisi
+BMU,Bermuda,Northern America,Northern America,1,1,Erken gecis
+BOL,Bolivia (Plurinational State of),Latin America and the Caribbean,South America,0,2,Gec gecis
+BRA,Brazil,Latin America and the Caribbean,South America,0,0,Orta donem gecisi
+BRB,Barbados,Latin America and the Caribbean,Caribbean,1,1,Erken gecis
+BRN,Brunei Darussalam,Asia,South-Eastern Asia,1,0,Orta donem gecisi
+BTN,Bhutan,Asia,Southern Asia,1,2,Gec gecis
+BWA,Botswana,Africa,Southern Africa,0,0,Orta donem gecisi
+CAF,Central African Republic,Africa,Middle Africa,0,2,Gec gecis
+CAN,Canada,Northern America,Northern America,0,1,Erken gecis
+CHE,Switzerland,Europe,Western Europe,0,1,Erken gecis
+CHL,Chile,Latin America and the Caribbean,South America,0,1,Erken gecis
+CHN,China,Asia,Eastern Asia,0,0,Orta donem gecisi
+CIV,Côte d'Ivoire,Africa,Western Africa,0,2,Gec gecis
+CMR,Cameroon,Africa,Middle Africa,0,2,Gec gecis
+COD,Democratic Republic of the Congo,Africa,Middle Africa,0,2,Gec gecis
+COG,Congo,Africa,Middle Africa,0,2,Gec gecis
+COK,Cook Islands,Oceania,Polynesia,1,0,Orta donem gecisi
+COL,Colombia,Latin America and the Caribbean,South America,0,0,Orta donem gecisi
+COM,Comoros,Africa,Eastern Africa,1,2,Gec gecis
+CPV,Cabo Verde,Africa,Western Africa,1,0,Orta donem gecisi
+CRI,Costa Rica,Latin America and the Caribbean,Central America,0,0,Orta donem gecisi
+CUB,Cuba,Latin America and the Caribbean,Caribbean,0,1,Erken gecis
+CUW,Curaçao,Latin America and the Caribbean,Caribbean,1,1,Erken gecis
+CYM,Cayman Islands,Latin America and the Caribbean,Caribbean,1,1,Erken gecis
+CYP,Cyprus,Asia,Western Asia,0,1,Erken gecis
+CZE,Czechia,Europe,Eastern Europe,0,1,Erken gecis
+DEU,Germany,Europe,Western Europe,0,1,Erken gecis
+DJI,Djibouti,Africa,Eastern Africa,0,2,Gec gecis
+DMA,Dominica,Latin America and the Caribbean,Caribbean,1,0,Orta donem gecisi
+DNK,Denmark,Europe,Northern Europe,0,1,Erken gecis
+DOM,Dominican Republic,Latin America and the Caribbean,Caribbean,0,0,Orta donem gecisi
+DZA,Algeria,Africa,Northern Africa,0,0,Orta donem gecisi
+ECU,Ecuador,Latin America and the Caribbean,South America,0,0,Orta donem gecisi
+EGY,Egypt,Africa,Northern Africa,0,0,Orta donem gecisi
+ERI,Eritrea,Africa,Eastern Africa,0,2,Gec gecis
+ESH,Western Sahara,Africa,Northern Africa,1,2,Gec gecis
+ESP,Spain,Europe,Southern Europe,0,1,Erken gecis
+EST,Estonia,Europe,Northern Europe,0,1,Erken gecis
+ETH,Ethiopia,Africa,Eastern Africa,0,2,Gec gecis
+FIN,Finland,Europe,Northern Europe,0,1,Erken gecis
+FJI,Fiji,Oceania,Melanesia,1,0,Orta donem gecisi
+FLK,Falkland Islands (Malvinas),Latin America and the Caribbean,South America,1,1,Erken gecis
+FRA,France,Europe,Western Europe,0,1,Erken gecis
+FRO,Faroe Islands,Europe,Northern Europe,1,1,Erken gecis
+FSM,Micronesia (Fed. States of),Oceania,Micronesia,1,0,Orta donem gecisi
+GAB,Gabon,Africa,Middle Africa,0,2,Gec gecis
+GBR,United Kingdom,Europe,Northern Europe,0,1,Erken gecis
+GEO,Georgia,Asia,Western Asia,0,1,Erken gecis
+GGY,Guernsey,Europe,Northern Europe,1,1,Erken gecis
+GHA,Ghana,Africa,Western Africa,0,2,Gec gecis
+GIB,Gibraltar,Europe,Southern Europe,1,1,Erken gecis
+GIN,Guinea,Africa,Western Africa,0,2,Gec gecis
+GLP,Guadeloupe,Latin America and the Caribbean,Caribbean,1,1,Erken gecis
+GMB,Gambia,Africa,Western Africa,0,2,Gec gecis
+GNB,Guinea-Bissau,Africa,Western Africa,0,2,Gec gecis
+GNQ,Equatorial Guinea,Africa,Middle Africa,0,2,Gec gecis
+GRC,Greece,Europe,Southern Europe,0,1,Erken gecis
+GRD,Grenada,Latin America and the Caribbean,Caribbean,1,0,Orta donem gecisi
+GRL,Greenland,Northern America,Northern America,1,0,Orta donem gecisi
+GTM,Guatemala,Latin America and the Caribbean,Central America,0,0,Orta donem gecisi
+GUF,French Guiana,Latin America and the Caribbean,South America,1,0,Orta donem gecisi
+GUM,Guam,Oceania,Micronesia,1,0,Orta donem gecisi
+GUY,Guyana,Latin America and the Caribbean,South America,1,0,Orta donem gecisi
+HKG,"China, Hong Kong SAR",Asia,Eastern Asia,0,1,Erken gecis
+HND,Honduras,Latin America and the Caribbean,Central America,0,0,Orta donem gecisi
+HRV,Croatia,Europe,Southern Europe,0,1,Erken gecis
+HTI,Haiti,Latin America and the Caribbean,Caribbean,0,2,Gec gecis
+HUN,Hungary,Europe,Eastern Europe,0,1,Erken gecis
+IDN,Indonesia,Asia,South-Eastern Asia,0,0,Orta donem gecisi
+IMN,Isle of Man,Europe,Northern Europe,1,1,Erken gecis
+IND,India,Asia,Southern Asia,0,0,Orta donem gecisi
+IRL,Ireland,Europe,Northern Europe,0,1,Erken gecis
+IRN,Iran (Islamic Republic of),Asia,Southern Asia,0,0,Orta donem gecisi
+IRQ,Iraq,Asia,Western Asia,0,0,Orta donem gecisi
+ISL,Iceland,Europe,Northern Europe,1,1,Erken gecis
+ISR,Israel,Asia,Western Asia,0,1,Erken gecis
+ITA,Italy,Europe,Southern Europe,0,1,Erken gecis
+JAM,Jamaica,Latin America and the Caribbean,Caribbean,0,0,Orta donem gecisi
+JEY,Jersey,Europe,Northern Europe,1,1,Erken gecis
+JOR,Jordan,Asia,Western Asia,0,0,Orta donem gecisi
+JPN,Japan,Asia,Eastern Asia,0,1,Erken gecis
+KAZ,Kazakhstan,Asia,Central Asia,0,0,Orta donem gecisi
+KEN,Kenya,Africa,Eastern Africa,0,2,Gec gecis
+KGZ,Kyrgyzstan,Asia,Central Asia,0,0,Orta donem gecisi
+KHM,Cambodia,Asia,South-Eastern Asia,0,2,Gec gecis
+KIR,Kiribati,Oceania,Micronesia,1,0,Orta donem gecisi
+KNA,Saint Kitts and Nevis,Latin America and the Caribbean,Caribbean,1,0,Orta donem gecisi
+KOR,Republic of Korea,Asia,Eastern Asia,0,0,Orta donem gecisi
+KWT,Kuwait,Asia,Western Asia,0,0,Orta donem gecisi
+LAO,Lao People's Democratic Republic,Asia,South-Eastern Asia,0,2,Gec gecis
+LBN,Lebanon,Asia,Western Asia,0,0,Orta donem gecisi
+LBR,Liberia,Africa,Western Africa,0,2,Gec gecis
+LBY,Libya,Africa,Northern Africa,0,0,Orta donem gecisi
+LCA,Saint Lucia,Latin America and the Caribbean,Caribbean,1,0,Orta donem gecisi
+LIE,Liechtenstein,Europe,Western Europe,1,1,Erken gecis
+LKA,Sri Lanka,Asia,Southern Asia,0,0,Orta donem gecisi
+LSO,Lesotho,Africa,Southern Africa,0,2,Gec gecis
+LTU,Lithuania,Europe,Northern Europe,0,1,Erken gecis
+LUX,Luxembourg,Europe,Western Europe,1,1,Erken gecis
+LVA,Latvia,Europe,Northern Europe,0,1,Erken gecis
+MAC,"China, Macao SAR",Asia,Eastern Asia,1,1,Erken gecis
+MAF,Saint Martin (French part),Latin America and the Caribbean,Caribbean,1,0,Orta donem gecisi
+MAR,Morocco,Africa,Northern Africa,0,0,Orta donem gecisi
+MCO,Monaco,Europe,Western Europe,1,1,Erken gecis
+MDA,Republic of Moldova,Europe,Eastern Europe,0,1,Erken gecis
+MDG,Madagascar,Africa,Eastern Africa,0,2,Gec gecis
+MDV,Maldives,Asia,Southern Asia,1,0,Orta donem gecisi
+MEX,Mexico,Latin America and the Caribbean,Central America,0,0,Orta donem gecisi
+MHL,Marshall Islands,Oceania,Micronesia,1,0,Orta donem gecisi
+MKD,North Macedonia,Europe,Southern Europe,0,1,Erken gecis
+MLI,Mali,Africa,Western Africa,0,2,Gec gecis
+MLT,Malta,Europe,Southern Europe,1,1,Erken gecis
+MMR,Myanmar,Asia,South-Eastern Asia,0,0,Orta donem gecisi
+MNE,Montenegro,Europe,Southern Europe,1,1,Erken gecis
+MNG,Mongolia,Asia,Eastern Asia,0,0,Orta donem gecisi
+MNP,Northern Mariana Islands,Oceania,Micronesia,1,0,Orta donem gecisi
+MOZ,Mozambique,Africa,Eastern Africa,0,2,Gec gecis
+MRT,Mauritania,Africa,Western Africa,0,2,Gec gecis
+MSR,Montserrat,Latin America and the Caribbean,Caribbean,1,1,Erken gecis
+MTQ,Martinique,Latin America and the Caribbean,Caribbean,1,1,Erken gecis
+MUS,Mauritius,Africa,Eastern Africa,0,0,Orta donem gecisi
+MWI,Malawi,Africa,Eastern Africa,0,2,Gec gecis
+MYS,Malaysia,Asia,South-Eastern Asia,0,0,Orta donem gecisi
+MYT,Mayotte,Africa,Eastern Africa,1,0,Orta donem gecisi
+NAM,Namibia,Africa,Southern Africa,0,2,Gec gecis
+NCL,New Caledonia,Oceania,Melanesia,1,0,Orta donem gecisi
+NER,Niger,Africa,Western Africa,0,2,Gec gecis
+NGA,Nigeria,Africa,Western Africa,0,2,Gec gecis
+NIC,Nicaragua,Latin America and the Caribbean,Central America,0,0,Orta donem gecisi
+NIU,Niue,Oceania,Polynesia,1,0,Orta donem gecisi
+NLD,Netherlands,Europe,Western Europe,0,1,Erken gecis
+NOR,Norway,Europe,Northern Europe,0,1,Erken gecis
+NPL,Nepal,Asia,Southern Asia,0,2,Gec gecis
+NRU,Nauru,Oceania,Micronesia,1,0,Orta donem gecisi
+NZL,New Zealand,Oceania,Australia/New Zealand,0,1,Erken gecis
+OMN,Oman,Asia,Western Asia,0,0,Orta donem gecisi
+PAK,Pakistan,Asia,Southern Asia,0,2,Gec gecis
+PAN,Panama,Latin America and the Caribbean,Central America,0,0,Orta donem gecisi
+PER,Peru,Latin America and the Caribbean,South America,0,0,Orta donem gecisi
+PHL,Philippines,Asia,South-Eastern Asia,0,0,Orta donem gecisi
+PLW,Palau,Oceania,Micronesia,1,0,Orta donem gecisi
+PNG,Papua New Guinea,Oceania,Melanesia,0,0,Orta donem gecisi
+POL,Poland,Europe,Eastern Europe,0,1,Erken gecis
+PRI,Puerto Rico,Latin America and the Caribbean,Caribbean,0,1,Erken gecis
+PRK,Dem. People's Republic of Korea,Asia,Eastern Asia,0,0,Orta donem gecisi
+PRT,Portugal,Europe,Southern Europe,0,1,Erken gecis
+PRY,Paraguay,Latin America and the Caribbean,South America,0,0,Orta donem gecisi
+PSE,State of Palestine,Asia,Western Asia,0,0,Orta donem gecisi
+PYF,French Polynesia,Oceania,Polynesia,1,0,Orta donem gecisi
+QAT,Qatar,Asia,Western Asia,0,0,Orta donem gecisi
+REU,Réunion,Africa,Eastern Africa,1,0,Orta donem gecisi
+ROU,Romania,Europe,Eastern Europe,0,1,Erken gecis
+RUS,Russian Federation,Europe,Eastern Europe,0,1,Erken gecis
+RWA,Rwanda,Africa,Eastern Africa,0,2,Gec gecis
+SAU,Saudi Arabia,Asia,Western Asia,0,0,Orta donem gecisi
+SDN,Sudan,Africa,Northern Africa,0,2,Gec gecis
+SEN,Senegal,Africa,Western Africa,0,2,Gec gecis
+SGP,Singapore,Asia,South-Eastern Asia,0,1,Erken gecis
+SHN,Saint Helena,Africa,Western Africa,1,1,Erken gecis
+SLB,Solomon Islands,Oceania,Melanesia,1,0,Orta donem gecisi
+SLE,Sierra Leone,Africa,Western Africa,0,2,Gec gecis
+SLV,El Salvador,Latin America and the Caribbean,Central America,0,0,Orta donem gecisi
+SMR,San Marino,Europe,Southern Europe,1,1,Erken gecis
+SOM,Somalia,Africa,Eastern Africa,0,2,Gec gecis
+SPM,Saint Pierre and Miquelon,Northern America,Northern America,1,1,Erken gecis
+SRB,Serbia,Europe,Southern Europe,0,1,Erken gecis
+SSD,South Sudan,Africa,Eastern Africa,0,2,Gec gecis
+STP,Sao Tome and Principe,Africa,Middle Africa,1,2,Gec gecis
+SUR,Suriname,Latin America and the Caribbean,South America,1,0,Orta donem gecisi
+SVK,Slovakia,Europe,Eastern Europe,0,1,Erken gecis
+SVN,Slovenia,Europe,Southern Europe,0,1,Erken gecis
+SWE,Sweden,Europe,Northern Europe,0,1,Erken gecis
+SWZ,Eswatini,Africa,Southern Africa,0,2,Gec gecis
+SXM,Sint Maarten (Dutch part),Latin America and the Caribbean,Caribbean,1,1,Erken gecis
+SYC,Seychelles,Africa,Eastern Africa,1,0,Orta donem gecisi
+SYR,Syrian Arab Republic,Asia,Western Asia,0,0,Orta donem gecisi
+TCA,Turks and Caicos Islands,Latin America and the Caribbean,Caribbean,1,0,Orta donem gecisi
+TCD,Chad,Africa,Middle Africa,0,2,Gec gecis
+TGO,Togo,Africa,Western Africa,0,2,Gec gecis
+THA,Thailand,Asia,South-Eastern Asia,0,0,Orta donem gecisi
+TJK,Tajikistan,Asia,Central Asia,0,0,Orta donem gecisi
+TKL,Tokelau,Oceania,Polynesia,1,0,Orta donem gecisi
+TKM,Turkmenistan,Asia,Central Asia,0,0,Orta donem gecisi
+TLS,Timor-Leste,Asia,South-Eastern Asia,0,2,Gec gecis
+TON,Tonga,Oceania,Polynesia,1,0,Orta donem gecisi
+TTO,Trinidad and Tobago,Latin America and the Caribbean,Caribbean,0,0,Orta donem gecisi
+TUN,Tunisia,Africa,Northern Africa,0,0,Orta donem gecisi
+TUR,Türkiye,Asia,Western Asia,0,0,Orta donem gecisi
+TUV,Tuvalu,Oceania,Polynesia,1,0,Orta donem gecisi
+TWN,"China, Taiwan Province of China",Asia,Eastern Asia,0,1,Erken gecis
+TZA,United Republic of Tanzania,Africa,Eastern Africa,0,2,Gec gecis
+UGA,Uganda,Africa,Eastern Africa,0,2,Gec gecis
+UKR,Ukraine,Europe,Eastern Europe,0,1,Erken gecis
+URY,Uruguay,Latin America and the Caribbean,South America,0,1,Erken gecis
+USA,United States of America,Northern America,Northern America,0,1,Erken gecis
+UZB,Uzbekistan,Asia,Central Asia,0,0,Orta donem gecisi
+VAT,Holy See,Europe,Southern Europe,1,1,Erken gecis
+VCT,Saint Vincent and the Grenadines,Latin America and the Caribbean,Caribbean,1,0,Orta donem gecisi
+VEN,Venezuela (Bolivarian Republic of),Latin America and the Caribbean,South America,0,0,Orta donem gecisi
+VGB,British Virgin Islands,Latin America and the Caribbean,Caribbean,1,1,Erken gecis
+VIR,United States Virgin Islands,Latin America and the Caribbean,Caribbean,1,1,Erken gecis
+VNM,Viet Nam,Asia,South-Eastern Asia,0,0,Orta donem gecisi
+VUT,Vanuatu,Oceania,Melanesia,1,0,Orta donem gecisi
+WLF,Wallis and Futuna Islands,Oceania,Polynesia,1,0,Orta donem gecisi
+WSM,Samoa,Oceania,Polynesia,1,0,Orta donem gecisi
+XKX,Kosovo (under UNSC res. 1244),Europe,Southern Europe,0,0,Orta donem gecisi
+YEM,Yemen,Asia,Western Asia,0,2,Gec gecis
+ZAF,South Africa,Africa,Southern Africa,0,0,Orta donem gecisi
+ZMB,Zambia,Africa,Eastern Africa,0,2,Gec gecis
+ZWE,Zimbabwe,Africa,Eastern Africa,0,2,Gec gecis
